@@ -1,0 +1,2 @@
+run:.png,8
+die:.png,7

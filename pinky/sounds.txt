@@ -1,0 +1,3 @@
+enemy_hit:False
+enemy_die:wav
+enemy_pass:False

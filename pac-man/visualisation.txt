@@ -1,0 +1,5 @@
+calm:.png,1
+build:.jpg,0
+shooting:.png,6
+shot_flow:.png,1
+shot_blast:.jpg,0

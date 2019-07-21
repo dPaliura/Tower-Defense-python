@@ -1,0 +1,4 @@
+build_start:False
+build_end:wav
+shooting:wav
+shot_hit:wav
